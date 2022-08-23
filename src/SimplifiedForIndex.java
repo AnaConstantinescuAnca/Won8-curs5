@@ -8,6 +8,7 @@ public class SimplifiedForIndex {
             System.out.println(s + " is at index " + i++);
             //System.out.println("Elementul de pe pozitia " + i + " este " + s);
             //i++;
+            //first change
         }
 
         int[] daysOfWeek = {1, 2, 3, 4, 5, 6, 7};
